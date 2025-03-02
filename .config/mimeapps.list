@@ -1,0 +1,9 @@
+[Added Associations]
+application/json=code-2.desktop;
+
+[Default Applications]
+application/json=code-2.desktop;
+x-scheme-handler/gitkraken=GitKraken.desktop
+x-scheme-handler/fdm=freedownloadmanager_fdm_up.desktop
+x-scheme-handler/magnet=freedownloadmanager_magnet_up.desktop
+application/x-bittorrent=freedownloadmanager_torrent.desktop

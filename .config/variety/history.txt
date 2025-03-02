@@ -1,7 +1,0 @@
-0
-/home/roxor/Pictures/Wallpaper/wallhaven-lm6d2r.png
-/home/roxor/Pictures/Wallpaper/wallhaven-rr92oj.jpg
-/home/roxor/Pictures/Wallpaper/wallhaven-r7lpmm.jpg
-/home/roxor/Pictures/Wallpaper/wallhaven-l8xql2.png
-/usr/share/backgrounds/arco/arco-login.jpg
-/usr/share/backgrounds/arcolinux/arco-wallpaper.jpg
